@@ -77,7 +77,7 @@ results/lunar_lander.mp4
 
 This shows the agent interacting with the environment after training.
 
-![Lunar Lander Agent](assets/lunar_lander_demo.gif)
+![Lunar Lander Agent](assets/lunar-lander-demo.gif)
 
 ---
 
